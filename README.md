@@ -8,34 +8,44 @@ Objective :
 
 # Screen shots
 
-<img src="/WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM.jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(2).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(3).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(4).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(5).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(6).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(7).jpeg" height="300" width="150" align="left" >
+
+
+#
+#
+
+#
+#
+#
+#
+
+#
+#
+#
+#
+#
+#
+#
+#
+
 
 #
 #
 
 #
 #
-#
-#
-
-#
-#
-
-
-#
-#
-
 
 ## Built With
 
-* Java
-* Android Studio
-
-## Contributing
-
-* Fork the repository
-* Make the changes
-* Submit the pull requests
+* Python 3 and Jupyter Notebook for processing data and predicting
+* Java and Android Studio for app development
 
 
 ## Versioning
@@ -44,10 +54,6 @@ Objective :
 
 ## Authors
 
- -  [Jatin Bindra](https://www.linkedin.com/in/jb1998/)
+-  [Jatin Bindra](https://www.linkedin.com/in/jb1998/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/jb1998/Women_Hackathon/blob/master/LICENSE) file for details
-
-- Copyright (c) 2018 Jatin Bindra
+- Copyright (c) 2020 Jatin Bindra
