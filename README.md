@@ -69,6 +69,7 @@
 
 * Python 3 and Jupyter Notebook for processing data and predicting
 * Java and Android Studio for app development
+* Firebase for realtime database
 
 
 ## Versioning
