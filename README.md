@@ -83,4 +83,4 @@
 
 
 
-- *This is just the description of app. Code is not open source till the app is published
+- *This is just the description of app. Code is not open source as of now
