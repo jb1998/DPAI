@@ -2,15 +2,13 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/jb1998)  &nbsp;&nbsp;
 
-![GitHub followers](https://img.shields.io/github/followers/jb1998.svg?style=social&label=Follow)
-
 
 # Objective : 
 
 * To predict diseases[Covid-19, Heart problem, Diabetes] using AI models. 
 * To provide latest information on diseases from trusted sources including news channels like The times of India 
 
-# Link to this live project? : 
+# Link to this live project? 
 
 * Okay, so this is the hardest part for me.  
 * The app was launched live on playstore but it is suspended by Google 😟
@@ -20,14 +18,12 @@
 
 # Let's now dive to Screenshots
 
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM.jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(2).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(3).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(4).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(5).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(6).jpeg" height="300" width="150" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(7).jpeg" height="300" width="150" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="400" width="200" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM.jpeg" height="400" width="200" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(2).jpeg" height="400" width="200" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(5).jpeg" height="400" width="200" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(6).jpeg" height="400" width="200" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(7).jpeg" height="400" width="200" align="left" >
 
 
 #
