@@ -16,18 +16,32 @@
 * So at present only government supported apps are allowed on playstore related to covid-19.
 * I really respect this decision 🌟 but at present I am trying to contact them to explain my app.
 
-# Let's now dive to Screenshots
+# Let's now dive into Screenshots
 
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="400" width="200" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM.jpeg" height="400" width="200" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(2).jpeg" height="400" width="200" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(5).jpeg" height="400" width="200" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(6).jpeg" height="400" width="200" align="left" >
-<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(7).jpeg" height="400" width="200" align="left" >
-
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(1).jpeg" height="500" width="250" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM.jpeg" height="500" width="250" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(2).jpeg" height="500" width="250" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(5).jpeg" height="500" width="250" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(6).jpeg" height="500" width="250" align="left" >
+<img src="WhatsApp%20Image%202020-04-09%20at%205.27.15%20PM%20(7).jpeg" height="500" width="250" align="left" >
 
 #
 #
+
+#
+#
+#
+#
+
+#
+#
+#
+#
+#
+#
+#
+#
+
 
 #
 #
